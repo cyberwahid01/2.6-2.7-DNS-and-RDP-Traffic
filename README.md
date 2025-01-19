@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Compute and Networking 🪟 - Observe DNS (Domain Name System) and RDP (Remote Desktop Protocol) Traffic</h1>
-In this section I use the DNS and RDP Protocols to observe traffic using Wireshark <br />
+In this section I use the DNS and RDP Protocols to observe traffic using Wireshark <br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -49,3 +49,4 @@ In this section I use the DNS and RDP Protocols to observe traffic using Wiresha
 <img src="https://imgur.com/BC3HUte.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
